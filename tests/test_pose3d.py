@@ -229,7 +229,7 @@ class TestPoseDetector3D:
         assert len(results) == 4
 
     def test_pose_result_to_dict(self):
-        """PoseResult.to_dict should return a JSON-serialisable dict."""
+        """PoseResult.to_dict should return a JSON-serializable dict."""
         import json
         from pose3d.detector import PoseResult
 

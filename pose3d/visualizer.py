@@ -1,5 +1,5 @@
 """
-3D visualisation utilities for human pose.
+3D visualization utilities for human pose.
 
 Provides:
   - ``Visualizer3D.plot_frame``         – single-frame 3-D skeleton plot saved to PNG
